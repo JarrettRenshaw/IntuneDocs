@@ -146,7 +146,7 @@ For a given device that has one or more iOS volume-purchase program (VPP) apps, 
 >Intune will retrieve all user licensed iOS VPP apps licenses when an employee leaves the company and is no longer part of the AAD groups.
 
 <!-- 820879 -->  
-You can delete an iOS Volume Purchasing Program (VPP) token using the console. This may be necessary when you have duplicate instances of a VPP token. Deleting a token will also delete any associated apps and assignment. However, deleting a token does not revoke app licenses or uninstall apps. 
+You can delete an iOS Volume Purcha sing Program (VPP) token using the console. This may be necessary when you have duplicate instances of a VPP token. Deleting a token will also delete any associated apps and assignment. However, deleting a token does not revoke app licenses or uninstall apps. 
 
 >[!NOTE]
 >Intune cannot revoke app licenses after a token has been deleted. 
